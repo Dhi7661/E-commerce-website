@@ -32,7 +32,6 @@ function App() {
                     <Route path="/orders" element={<Orders />} />
                 </Routes>
 
-                <ProductCard />
 
 
             </div>
